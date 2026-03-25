@@ -78,4 +78,4 @@ MIT License — see [LICENSE](LICENSE).
 
 ## Author
 
-[Hasan Rahman](https://github.com/hrahmanwave) — IWFM, BUET, Bangladesh
+[hrahmanwave](https://github.com/hrahmanwave)
