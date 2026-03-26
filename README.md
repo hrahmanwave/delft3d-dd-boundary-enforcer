@@ -79,3 +79,13 @@ MIT License — see [LICENSE](LICENSE).
 ## Author
 
 [hrahmanwave](https://github.com/hrahmanwave)
+
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Rahman-1059)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Kc736lkAAAAJ&hl)
+
+
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Rahman-1059)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Kc736lkAAAAJ&hl)
+
